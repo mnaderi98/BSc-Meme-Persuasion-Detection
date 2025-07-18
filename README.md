@@ -17,9 +17,7 @@ Dr. Sayyed Sauleh Eetemadi
 
 ## Contents  
 - Thesis Report (PDF)  
-- Source Code (optional)  
-- Model Files (optional)  
-- Dataset Descriptions (if public)
+- Presentation File (PDF)  
 
 ## License  
 This repository is intended for academic and research purposes only.
